@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.first 
+{ 
+ height: 510px; 
+ width:20%; 
+ border:3px solid white; 
+ float:left; 
+ margin-right:5px; 
+} 
+.second 
+{ 
+ background-image: url("img.jpg"); 
+ height: 42px; 
+ width:75.1%; 
+ border:3px solid white; 
+ float:left; 
+ margin-bottom:5px; 
+} 
+.third 
+{ 
+ height: 348px; 
+ width: 17%; 
+ margin-right: 14px; 
+ float:left; 
+} 
+ 
+.sidebar1 
+{ 
+ background-color: blue; 
+ height: 226px; 
+ width:100%; 
+ border:3px solid white; 
+ float:left; 
+ margin-bottom:4px; 
+} 
+.sidebar2 
+{ 
+ background-color: blue; 
+ height: 221px; 
+ width:100%; 
+ border:3px solid white; 
+ float:left; 
+} 
+.forth 
+{ 
+ background-color: red; 
+ height: 457px; 
+ width: 57.1%; 
+ border:3px solid white; 
+ float:left; 
+} 
+ 
+ 
+.cu-copyright-wrap 
+{ 
+ background-color: slategrey; 
+ height: 65px; 
+ width: 96%; 
+ border:4px solid #484848; 
+ padding-bottom: 20px; 
+ float:left; 
+ margin-top:5; 
+} 
